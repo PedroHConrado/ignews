@@ -45,7 +45,7 @@
 ## ⚙️ Starting
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/GBDev13/ignews.git
+$ git clone https://github.com/PedroHConrado/ignews
 ```
 
 ```
